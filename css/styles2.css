@@ -1,13 +1,14 @@
 body{
-  background-image: url("../images/office.jpg");
+  background-image: url("../images/office2.jpg");
   background-size: cover;
 }
 #intro{
   text-align: center;
-  margin-top: 80px;
+  margin-top: 200px;
+  font-family: 'Luckiest Guy', cursive;
 }
 button{
   position: absolute;
   margin-left: 45%;
-  margin-top: 10%;
+  margin-top: 50px;
 }
