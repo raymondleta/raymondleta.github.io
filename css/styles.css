@@ -10,7 +10,7 @@ body{
   color: #88CFDE;
   text-align: center;
   height: 40px;
-  margin-top: 40px;
+  margin-top: 10px;
   font-size: 40px
 }
 img{
@@ -25,6 +25,8 @@ img{
 }
 #navbar{
   padding-right: 60px;
+  float: right;
+
 }
 #navbar li{
   list-style-type: none;
