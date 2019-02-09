@@ -7,7 +7,7 @@ body{
 }
 #navbar{
   width: 100%;
-  padding: 45px;
+  padding: 25px;
   float: right;
   background-color: yellow;
 
@@ -17,11 +17,12 @@ body{
   display: inline;
   float: right;
   padding: 6px;
-  font-family: 'Nunito Sans', sans-serif;
+
 }
 #navbar li a{
   text-decoration: none;
   color: black;
+  font-family: 'Roboto', sans-serif;
 }
 .header {
   font-family: Righteous;
