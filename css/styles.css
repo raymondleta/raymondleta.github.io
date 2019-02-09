@@ -1,4 +1,4 @@
-.header {
+#navbar h1 {
   font-family: Righteous;
   color: #88CFDE;
   text-align: center;
@@ -22,4 +22,8 @@ img{
   display: inline;
   float: right;
   padding: 6px;
+}
+#navbar li a{
+  text-decoration: none;
+  color: black;
 }
