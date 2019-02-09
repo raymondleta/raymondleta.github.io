@@ -3,5 +3,9 @@
 }
 img{
   width: 150px;
-  height: 220px;
+  height: 200px;
+  border-color: black
+  border-width:2px;
+  border-style: solid;
+  border-radius: 50%;
 }
