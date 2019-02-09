@@ -1,4 +1,4 @@
-#navbar h1 {
+.header {
   font-family: Righteous;
   color: #88CFDE;
   text-align: center;
@@ -22,8 +22,12 @@ img{
   display: inline;
   float: right;
   padding: 6px;
+  font-family: 'Nunito Sans', sans-serif;
 }
 #navbar li a{
   text-decoration: none;
   color: black;
+}
+.about{
+  font-family: 'Roboto Mono', monospace;
 }
