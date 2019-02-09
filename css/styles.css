@@ -14,6 +14,12 @@ img{
   border-style: solid;
   border-radius: 50%;
 }
+#navbar{
+  padding-right: 70px;
+}
 #navbar li{
   list-style-type: none;
+  display: inline;
+  float: right;
+  padding: 6px;
 }
