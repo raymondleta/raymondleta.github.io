@@ -1,0 +1,13 @@
+body{
+  background-image: url("../images/office.jpg");
+  background-size: cover;
+}
+#intro{
+  text-align: center;
+  margin-top: 80px;
+}
+button{
+  position: absolute;
+  margin-left: 45%;
+  margin-top: 10%;
+}
