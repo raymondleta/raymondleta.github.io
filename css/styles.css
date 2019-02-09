@@ -5,6 +5,24 @@ body{
   opacity: 200;*/
 
 }
+#navbar{
+  width: 100%;
+  padding: 45px;
+  float: right;
+  background-color: yellow;
+
+}
+#navbar li{
+  list-style-type: none;
+  display: inline;
+  float: right;
+  padding: 6px;
+  font-family: 'Nunito Sans', sans-serif;
+}
+#navbar li a{
+  text-decoration: none;
+  color: black;
+}
 .header {
   font-family: Righteous;
   color: #88CFDE;
@@ -23,22 +41,7 @@ img{
   float:left;
   margin-top: 45px;
 }
-#navbar{
-  padding-right: 60px;
-  float: right;
 
-}
-#navbar li{
-  list-style-type: none;
-  display: inline;
-  float: right;
-  padding: 6px;
-  font-family: 'Nunito Sans', sans-serif;
-}
-#navbar li a{
-  text-decoration: none;
-  color: black;
-}
 .about{
   font-family: 'Roboto Mono', monospace;
   margin-left: 400px;
