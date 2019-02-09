@@ -1,3 +1,10 @@
+body{
+  /*background-image: url("../images/me.jpg");
+  background-position: 50% 50%;
+  background-repeat: repeat;
+  opacity: 200;*/
+
+}
 .header {
   font-family: Righteous;
   color: #88CFDE;
@@ -34,4 +41,8 @@ img{
   font-family: 'Roboto Mono', monospace;
   margin-left: 400px;
   margin-top: 60px;
+}
+.softdev{
+  margin-top: 70px;
+  font-family: 'Roboto Mono', monospace;
 }
