@@ -34,4 +34,4 @@ License & Copyright
 
 MIT
 
-Copyright<2019> <Raymond Gitonga>
+<Raymond Gitonga> Copyright<2019>
